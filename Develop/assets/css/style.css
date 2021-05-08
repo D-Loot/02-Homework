@@ -58,7 +58,7 @@ p {
 .heroes {
 /* The height was adjusted from 800px to auto so that it scales with the page 
 as it grows and shrinks instead of cutting the photo off at the top when it shrinks. */
-    height: auto;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
